@@ -1,7 +1,6 @@
 import sys
 import pyperclip
 import json
-import os
 
 savedData = "clipboard.json"
 
