@@ -11,9 +11,9 @@ First you need to have a text copied in your clipboard and when you run the save
 
 This program imports libraries like json, sys and pyperclip, so make sure you have these libraries downloaded.
 <b>To download libraries through pip : </b>
-pip install sys //for sys
-pip install json //for json
-pip install pyperclip //for pyperclip
+pip install sys //for sys<br>
+pip install json //for json<br>
+pip install pyperclip //for pyperclip<br><br>
 
 You can see multiple functions, each has a specific task to copy an item into the clipboard or to show items in the clipboard.
 
